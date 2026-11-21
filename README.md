@@ -1,14 +1,6 @@
 # Simple Minds Studios Brand Bible
 
-The SMS brand system is distributed across the following documents:
-
-- [Colors](./Colors.md)
-- [Imagery](./Imagery.md)
-- [Motion](./Motion.md)
-- [Typography](./Typography.md)
-- [Voice](./Voice.md)
-- [Museum Metaphor](../01-Philosophy/Museum-Metaphor.md)
-- [Continuity](../01-Philosophy/Continuity.md)
+This is the current working brand-bible draft. Color, imagery, motion, typography, voice, museum-metaphor and continuity chapters are planned; the former individual chapter links did not correspond to files in this repository.
 
 # Simple Minds Studios Brand Bible
 
@@ -25,3 +17,8 @@ The studio may move between astronomy, human assessment, architecture, local his
 The subject may change.
 
 The underlying presence should remain recognizable.
+
+
+## Public presentation
+
+https://simple-minds-studios.github.io/sms-standards/
